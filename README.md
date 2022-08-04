@@ -31,7 +31,7 @@ oc process -f https://raw.githubusercontent.com/pebcac/nextcloud-openshift/maste
 Execute the following command to get the available parameters:
 
 ```
-oc process -f https://raw.githubusercontent.com/pebcac/nextcloud-openshift/master/nextcloud.yaml --parameters
+oc process -f https://raw.githubusercontent.com/pebcac/nextcloud-openshift/fb-nextcloud-version/nextcloud.yaml --parameters
 ```
 
 ### 3 Configure Nextcloud
